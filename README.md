@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Leo Nguyen Spotify Playing" width="350" />](https://open.spotify.com/album/3HZXj6FDz2KE7Zf9PKRSYQ?highlight=spotify:track:2eqgnYkK1YgVJS742pmv96)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Leo Nguyen Spotify Playing" width="350" />](https://open.spotify.com/playlist/00BrrfxN4bJv5Uob8oim84)
 
 ### Connect with me:
 
