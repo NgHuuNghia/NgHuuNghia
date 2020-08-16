@@ -44,12 +44,10 @@
 [<img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="26" />][website]
 [<img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="26" />][website]
 [<img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gastby" width="26" />][website]
-[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="26" />][website]
 [<img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="26" />][website]
 [<img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="26" />][website]
 [<img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="26" />][website]
 [<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="26" />][website]
-[<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="26" />][website]
 [<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="26" />][website]
 
 <br />
