@@ -45,7 +45,8 @@
 [<img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="26" />][website]
 [<img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="26" />][website]
 [<img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gastby" width="26" />][website]
-[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="26" />][website] [<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="26" />][website]
+[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="26" />][website]
+[<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="26" />][website]
 [<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="26" />][website]
 [<img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="26" />][website]
 [<img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="26" />][website]
@@ -58,6 +59,7 @@
 [<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="26" />][website]
 [<img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="26" />][website]
 [<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="26" />][website]
+
 <br />
 <br />
 
@@ -66,8 +68,10 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-[<img align="left" alt="nghuunghia's github stats" src="https://github-readme-stats.nguyenhuunghia.vercel.app/api?username=nghuunghia&show_icons=true&hide_border=true" />]
-</details> 
+  <img align="left" alt="Nghuunghia's Github Stats" src="https://github-readme-stats.nguyenhuunghia.vercel.app/api?username=NgHuuNghia&show_icons=true&hide_border=true" />
+
+</details>
+
 [website]: https://nghuunghia.com
 [twitter]: https://twitter.com/_nguyenhuunghia
 [facebook]: https://facebook.com/nguyenhuunghia.152
