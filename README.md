@@ -66,7 +66,9 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-[<img align="left" alt="nghuunghia's github stats" src="https://github-readme-stats.nguyenhuunghia.vercel.app/api?username=nghuunghia&show_icons=true&hide_border=true" />][website] </details> [website]: https://nghuunghia.com
+[<img align="left" alt="nghuunghia's github stats" src="https://github-readme-stats.nguyenhuunghia.vercel.app/api?username=nghuunghia&show_icons=true&hide_border=true" />]
+</details> 
+[website]: https://nghuunghia.com
 [twitter]: https://twitter.com/_nguyenhuunghia
 [facebook]: https://facebook.com/nguyenhuunghia.152
 [instagram]: https://instagram.com/nguyenhuunghia.152
