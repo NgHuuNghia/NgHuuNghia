@@ -47,7 +47,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.nguyenhuunghia.vercel.app
+  <img align="left" alt="Nghuunghia's Github Stats" src="https://github-readme-stats.nguyenhuunghia.vercel.app
 /api?username=nghuunghia&show_icons=true&hide_border=true" />
 
 </details>
