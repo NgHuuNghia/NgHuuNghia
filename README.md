@@ -13,13 +13,15 @@
 ### Connect with me:
 
 [<img align="left" alt="nghuunghia.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-<!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
+
+<!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][website]][youtube] -->
+
 [<img align="left" alt="nguyenhuunghia.152 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="nguyenhuunghia.152 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="nguyenhuunghia98 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="_nguyenhuunghia | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-<br />
+<br />][website]
 
 ### Languages and Tools:
 
@@ -38,7 +40,27 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
-
+[<img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="26" />][website]
+[<img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="26" />][website]
+[<img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="26" />][website]
+[<img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="26" />][website]
+[<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="26" />][website]
+[<img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="26" />][website]
+[<img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="26" />][website]
+[<img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gastby" width="26" />][website]
+[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="26" />][website] [<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="26" />][website]
+[<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="26" />][website]
+[<img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="26" />][website]
+[<img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="26" />][website]
+[<img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="26" />][website]
+[<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="26" />][website]
+[<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="26" />][website]
+[<img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="26" />][website]
+[<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="26" />][website]
+[<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="26" />][website]
+[<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="26" />][website]
+[<img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="26" />][website]
+[<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="26" />][website]
 <br />
 <br />
 
@@ -47,11 +69,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Nghuunghia's Github Stats" src="https://github-readme-stats.nguyenhuunghia.vercel.app/api?username=NgHuuNghia&show_icons=true&hide_border=true" />
-
-</details>
-
-[website]: https://nghuunghia.com
+[<img align="left" alt="nghuunghia's github stats" src="https://github-readme-stats.nguyenhuunghia.vercel.app/api?username=nghuunghia&show_icons=true&hide_border=true" />][website] </details> [website]: https://nghuunghia.com
 [twitter]: https://twitter.com/_nguyenhuunghia
 [facebook]: https://facebook.com/nguyenhuunghia.152
 [instagram]: https://instagram.com/nguyenhuunghia.152
