@@ -44,6 +44,14 @@
 
 ---
 
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.nguyenhuunghia.vercel.app
+/api?username=nghuunghia&show_icons=true&hide_border=true" />
+
+</details>
+
 [website]: https://nghuunghia.com
 [twitter]: https://twitter.com/_nguyenhuunghia
 [facebook]: https://facebook.com/nguyenhuunghia.152
